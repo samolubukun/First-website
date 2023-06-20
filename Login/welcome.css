@@ -1,0 +1,16 @@
+
+
+*{
+	background-image:linear-gradient(rgb(0,0,0,0.172),rgb(0,0,0,0.2)), url(welcome.jpg);
+    background-size: cover;
+	background-position: auto;
+	background-repeat: no-repeat;
+	box-sizing: border-box;
+    
+}
+h1{
+    font-size: larger;
+    color: aliceblue;
+    text-align: center;
+    font-size: 65px;
+}
